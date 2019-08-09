@@ -1,2 +1,2 @@
 hello
-new_file added
+new_file added by me
